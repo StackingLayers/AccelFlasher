@@ -21,7 +21,7 @@ sudo apt-get update && sudo apt-get install git -y
 Use the following command to download AccelFlasher into your home-directory:
 
 ```shell
-cd ~ && git clone https://github.com/Pneumanifest/AccelFlasher.git
+cd ~ && git clone https://github.com/StackingLayers/AccelFlasher.git
 ```
 
 * **Step 3:** \
