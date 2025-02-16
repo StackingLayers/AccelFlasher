@@ -31,7 +31,7 @@ Start AccelFlasher by running the next command:
 ./AccelFlasher/accelflasher.sh
 ```
 * **When the Klipper Firmware Config opens configure it like this image.** \
-![image](https://github.com/Pneumanifest/AccelFlasher/assets/117918822/56ab4f42-618f-433d-a9ad-8b374dfeab7f)
+![ADXLV2 Config](https://github.com/user-attachments/assets/d5fdc8a5-97ef-4376-8c66-04cf5e5a1598)
 
 * **Remember to run SHAPER_CALIBRATE for CoreXY or SHAPER_CALIBRATE AXIS=X and SHAPER_CALIBRATE AXIS=Y for bed slingers with the sensor in the right place.** 
 * **It is also importaint to set up the axes_map: x,y,z to match your sensor's orientation. Update that every time you move the sensor position.** 
